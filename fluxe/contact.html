@@ -99,6 +99,13 @@
     .cta-email-address:hover,.cta-email-address:focus{color:var(--accent);outline:none;}
     .cta-action{display:flex;flex-direction:column;align-items:center;gap:.6rem;}
     .cta-hint{font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;color:var(--text-muted);opacity:.7;}
+    .contact-form{display:flex;flex-direction:column;gap:1.5rem;max-width:540px;margin:2.5rem auto 0;text-align:left;}
+    .form-row{display:flex;flex-direction:column;gap:.5rem;}
+    .form-label{font-family:var(--font-body);font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--text-muted);}
+    .form-input{font-family:var(--font-body);font-size:1rem;color:var(--text-primary);background:var(--bg-surface);border:1px solid var(--border-light);padding:.85rem 1rem;width:100%;transition:border-color .2s;}
+    .form-input:focus{outline:none;border-color:var(--accent);}
+    .form-textarea{resize:vertical;min-height:8rem;line-height:1.6;}
+    .contact-form .btn-cta{align-self:center;margin-top:.5rem;cursor:pointer;font-family:var(--font-body);}
 
     /* ── DIVIDER ── */
     hr.divider{border:none;border-top:1px solid var(--border);margin:0 3rem;}
@@ -219,14 +226,23 @@
       <span class="page-eyebrow">Get in touch</span>
       <h1 class="page-title">Most things start<br>with a question.</h1>
       <p class="page-opener">If you have one — about a build, a collaboration, a workshop, or just how any of this works — send it.</p>
-      <a class="cta-email-address" href="mailto:info@fluxe.nl">info@fluxe.nl</a>
-      <div class="cta-action">
-        <a class="btn-cta" href="mailto:info@fluxe.nl">
-          <svg viewBox="0 0 24 24" aria-hidden="true" class="icon-mail"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5"/></svg>
-          Start the conversation
-        </a>
-        <p class="cta-hint">Opens your email app</p>
-      </div>
+      <form class="contact-form reveal" action="https://api.web3forms.com/submit" method="POST">
+        <input type="hidden" name="access_key" value="c4627d0d-f8cd-4df9-9c19-a81428b77600">
+        <input type="hidden" name="redirect" value="https://fluxe.art/thanks/">
+        <div class="form-row">
+          <label class="form-label" for="cf-name">Name</label>
+          <input class="form-input" id="cf-name" type="text" name="name" autocomplete="name" required>
+        </div>
+        <div class="form-row">
+          <label class="form-label" for="cf-email">Email</label>
+          <input class="form-input" id="cf-email" type="email" name="email" autocomplete="email" required>
+        </div>
+        <div class="form-row">
+          <label class="form-label" for="cf-message">Message</label>
+          <textarea class="form-input form-textarea" id="cf-message" name="message" rows="6" required></textarea>
+        </div>
+        <button class="btn-cta" type="submit">Send message</button>
+      </form>
     </div>
 
     <hr class="divider" />
@@ -279,7 +295,7 @@
 
         <div class="contact-channel">
           <span class="channel-label">Email</span>
-          <a class="channel-link" href="mailto:info@fluxe.nl">info@fluxe.nl</a>
+          <a class="channel-link" href="mailto:gerald@fluxe.art">gerald@fluxe.art</a>
         </div>
 
         <div class="contact-channel">
@@ -315,7 +331,7 @@
       <a class="footer-social-link" href="#" target="_blank" rel="noopener" aria-label="Fluxe on YouTube">
         <svg viewBox="0 0 24 24"><path d="M23.495 6.205a3.007 3.007 0 0 0-2.088-2.088c-1.87-.501-9.396-.501-9.396-.501s-7.507-.01-9.396.501A3.007 3.007 0 0 0 .527 6.205a31.247 31.247 0 0 0-.522 5.805 31.247 31.247 0 0 0 .522 5.783 3.007 3.007 0 0 0 2.088 2.088c1.868.502 9.396.502 9.396.502s7.506 0 9.396-.502a3.007 3.007 0 0 0 2.088-2.088 31.247 31.247 0 0 0 .5-5.783 31.247 31.247 0 0 0-.5-5.805zM9.609 15.601V8.408l6.264 3.602z"/></svg>
       </a>
-      <a class="footer-social-link" href="mailto:info@fluxe.nl" aria-label="Email Gerald de Jong">
+      <a class="footer-social-link" href="mailto:gerald@fluxe.art" aria-label="Email Gerald de Jong">
         <svg viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
       </a>
     </div>

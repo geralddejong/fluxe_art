@@ -1004,6 +1004,40 @@ hr.divider {
   color: var(--text-muted);
   opacity: 0.7;
 }
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  max-width: 540px;
+  margin: 2.5rem auto 0;
+  text-align: left;
+}
+.form-row { display: flex; flex-direction: column; gap: 0.5rem; }
+.form-label {
+  font-family: var(--font-body);
+  font-size: 0.72rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+.form-input {
+  font-family: var(--font-body);
+  font-size: 1rem;
+  color: var(--text-primary);
+  background: var(--bg-surface);
+  border: 1px solid var(--border-light);
+  padding: 0.85rem 1rem;
+  width: 100%;
+  transition: border-color 0.2s;
+}
+.form-input:focus { outline: none; border-color: var(--accent); }
+.form-textarea { resize: vertical; min-height: 8rem; line-height: 1.6; }
+.contact-form .btn-cta {
+  align-self: center;
+  margin-top: 0.5rem;
+  cursor: pointer;
+  font-family: var(--font-body);
+}
 .conversations {
   max-width: 800px;
   margin: 0 auto;

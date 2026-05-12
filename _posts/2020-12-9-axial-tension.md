@@ -1,7 +1,7 @@
 ---
 title: "Axial Tension"
 date: 2020-12-09
-description: "pretensing what is already pretenst"
+description: "pre-tensing what is already taut"
 categories: construction
 tags: [tensegrity]
 redirect_from:
@@ -28,7 +28,7 @@ The whole tower acts like a big **spring**, and the books rise and fall tracing 
 
 If this tower is acting like a spring, I began to wonder what it would be like to pretense the tower **as if it were** a spring.
 
-I added [radial tension](https://pretenst.com/construction/2020/07/06/radial-tension) cords to the bottom, which extend from the three bottom tulips to the middle of the bottom triangle, leaving enough extra length so that the center point could be pulled up some.
+I added [radial tension](/works/radial-tension/) cords to the bottom, which extend from the three bottom tulips to the middle of the bottom triangle, leaving enough extra length so that the center point could be pulled up some.
 
 ![tower](/images/2020-12/bottom-radial.jpg)
 
@@ -66,7 +66,7 @@ I made a little slow-motion movie to hopefully get the effect to show clearly an
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yN0d060oGnw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The way the tower feels when it is axially pretenst is strange because, to a point, it is completely rigid. In other words, whenever the axial tension is tight, the height of the tower stays the same. Add another book on top, and nothing happens!
+The way the tower feels when it is axially pre-tensed is strange because, to a point, it is completely rigid. In other words, whenever the axial tension is tight, the height of the tower stays the same. Add another book on top, and nothing happens!
 
 The **resonance** that we started with is gone altogether, and instead there is a very much higher resonance visible on each and **every twist** equally.
 

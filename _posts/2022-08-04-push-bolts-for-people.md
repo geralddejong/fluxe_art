@@ -58,9 +58,9 @@ So I made an instruction video which should be easy enough to follow, especially
 
 ## The vertebra
 
-Another kit on offer [on offer](https://getpretenst.com/) is the vertebra, which can be connected together in series to make a kind of tensegrity spine.
+Another kit is the vertebra, which can be connected together in series to make a kind of tensegrity spine.
 
-[![spine](/images/2022-08/spine-2.jpg)](https://getpretenst.com/)
+![spine](/images/2022-08/spine-2.jpg)
 
 Here's how to build with the vertebra:
 

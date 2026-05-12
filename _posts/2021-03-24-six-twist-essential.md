@@ -18,7 +18,7 @@ Sure, it's possible to make a nice website that visually catches someone's inter
 
 It's something you need to **feel**. The only way is to get tensegrity *into peoples' hands*! 
 
-So I set about finding a way to refine the building process for *replication*, so that I could build enough robust *pretenst* structures that I could ship them to people.
+So I set about finding a way to refine the building process for *replication*, so that I could build enough robust *tensegrity* structures that I could ship them to people.
 
 ### Prefab tension
 
@@ -87,8 +87,6 @@ This way the whole structure **folded up** very nicely indeed!
 ## Conclusion
 
 I can get high tension adjustable tensegrity structures into other peoples' hands.
-
-[You can finally get yours now.](https://getpretenst.com/)
 
 It's very exciting to be able to help more people **cross the perception gap** and hopefully help other people develop new intuitions!
 

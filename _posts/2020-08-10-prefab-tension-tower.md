@@ -141,7 +141,7 @@ The thing about prefab tension tower is that there is a problem at the top and b
 
 That's ok when there are indeed two twists to join, but you always have the two ends of the tower where there are no more twists. A ring is prefabricated, so it's **too long** for the end case to hold the triangle together.
 
-But thinking back to the [radial tension](https://pretenst.com/construction/2020/07/06/radial-tension) project, we had a trick for holding triangles together:
+But thinking back to the [radial tension](/works/radial-tension/) project, we had a trick for holding triangles together:
 
 ![radial][radial]
 
@@ -178,7 +178,7 @@ Notice that the way you first connect a Z to a twist is to have its middle segme
 
 ![tower][tower-t1]
 
-When it's partially hooked up we basically have two [twist sisters](https://pretenst.com/construction/2020/07/13/twist) joined by a hexagon of tension.
+When it's partially hooked up we basically have two [twist sisters](/works/twist/) joined by a hexagon of tension.
 
 ![tower][tower-t2]
 
@@ -251,39 +251,39 @@ Here's a time lapse of my very first attempt. Let's just say I learned from it.
 
 This is  is the holy grail of **prefab tension**, and makes for easy transport and (re)deployment.
 
-[tower-0]: https://pretenst.com/images/2020-08/tower-0.png
-[tower-a]: https://pretenst.com/images/2020-08/tower-a.jpg
-[tower-b1]: https://pretenst.com/images/2020-08/tower-b1.jpg
-[tower-b2]: https://pretenst.com/images/2020-08/tower-b2.jpg
-[tower-b3]: https://pretenst.com/images/2020-08/tower-b3.jpg
-[tower-c0]: https://pretenst.com/images/2020-08/tower-c0.jpg
-[tower-c1]: https://pretenst.com/images/2020-08/tower-c1.jpg
-[tower-c2]: https://pretenst.com/images/2020-08/tower-c2.jpg
-[tower-c3]: https://pretenst.com/images/2020-08/tower-c3.jpg
-[tower-d0]: https://pretenst.com/images/2020-08/tower-d0.jpg
-[tower-d1]: https://pretenst.com/images/2020-08/tower-d1.jpg
-[tower-d2]: https://pretenst.com/images/2020-08/tower-d2.jpg
-[tower-f1]: https://pretenst.com/images/2020-08/tower-f1.jpg
-[tower-f2]: https://pretenst.com/images/2020-08/tower-f2.jpg
-[tower-f3]: https://pretenst.com/images/2020-08/tower-f3.jpg
-[tower-f4]: https://pretenst.com/images/2020-08/tower-f4.jpg
-[tower-h0]: https://pretenst.com/images/2020-08/tower-h0.png
-[tower-h1]: https://pretenst.com/images/2020-08/tower-h1.jpg
-[tower-h2]: https://pretenst.com/images/2020-08/tower-h2.jpg
-[tower-h3]: https://pretenst.com/images/2020-08/tower-h3.jpg
-[tower-h4]: https://pretenst.com/images/2020-08/tower-h4.jpg
-[tower-h5]: https://pretenst.com/images/2020-08/tower-h5.jpg
-[tower-h6]: https://pretenst.com/images/2020-08/tower-h6.jpg
-[tower-m1]: https://pretenst.com/images/2020-08/tower-m1.jpg
-[tower-m10]: https://pretenst.com/images/2020-08/tower-m10.jpg
-[tower-m11]: https://pretenst.com/images/2020-08/tower-m11.jpg
-[tower-m3]: https://pretenst.com/images/2020-08/tower-m3.jpg
-[tower-m6]: https://pretenst.com/images/2020-08/tower-m6.jpg
-[tower-m8]: https://pretenst.com/images/2020-08/tower-m8.jpg
-[tower-t1]: https://pretenst.com/images/2020-08/tower-t1.jpg
-[tower-t2]: https://pretenst.com/images/2020-08/tower-t2.jpg
-[tower-t3]: https://pretenst.com/images/2020-08/tower-t3.jpg
-[tower-x1]: https://pretenst.com/images/2020-08/tower-x1.jpg
-[tower-x3]: https://pretenst.com/images/2020-08/tower-x3.jpg
-[tower-x4]: https://pretenst.com/images/2020-08/tower-x4.jpg
-[radial]: https://pretenst.com/images/2020-07/radial-h.jpg
+[tower-0]: /images/2020-08/tower-0.png
+[tower-a]: /images/2020-08/tower-a.jpg
+[tower-b1]: /images/2020-08/tower-b1.jpg
+[tower-b2]: /images/2020-08/tower-b2.jpg
+[tower-b3]: /images/2020-08/tower-b3.jpg
+[tower-c0]: /images/2020-08/tower-c0.jpg
+[tower-c1]: /images/2020-08/tower-c1.jpg
+[tower-c2]: /images/2020-08/tower-c2.jpg
+[tower-c3]: /images/2020-08/tower-c3.jpg
+[tower-d0]: /images/2020-08/tower-d0.jpg
+[tower-d1]: /images/2020-08/tower-d1.jpg
+[tower-d2]: /images/2020-08/tower-d2.jpg
+[tower-f1]: /images/2020-08/tower-f1.jpg
+[tower-f2]: /images/2020-08/tower-f2.jpg
+[tower-f3]: /images/2020-08/tower-f3.jpg
+[tower-f4]: /images/2020-08/tower-f4.jpg
+[tower-h0]: /images/2020-08/tower-h0.png
+[tower-h1]: /images/2020-08/tower-h1.jpg
+[tower-h2]: /images/2020-08/tower-h2.jpg
+[tower-h3]: /images/2020-08/tower-h3.jpg
+[tower-h4]: /images/2020-08/tower-h4.jpg
+[tower-h5]: /images/2020-08/tower-h5.jpg
+[tower-h6]: /images/2020-08/tower-h6.jpg
+[tower-m1]: /images/2020-08/tower-m1.jpg
+[tower-m10]: /images/2020-08/tower-m10.jpg
+[tower-m11]: /images/2020-08/tower-m11.jpg
+[tower-m3]: /images/2020-08/tower-m3.jpg
+[tower-m6]: /images/2020-08/tower-m6.jpg
+[tower-m8]: /images/2020-08/tower-m8.jpg
+[tower-t1]: /images/2020-08/tower-t1.jpg
+[tower-t2]: /images/2020-08/tower-t2.jpg
+[tower-t3]: /images/2020-08/tower-t3.jpg
+[tower-x1]: /images/2020-08/tower-x1.jpg
+[tower-x3]: /images/2020-08/tower-x3.jpg
+[tower-x4]: /images/2020-08/tower-x4.jpg
+[radial]: /images/2020-07/radial-h.jpg

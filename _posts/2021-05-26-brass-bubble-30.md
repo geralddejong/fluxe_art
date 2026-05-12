@@ -63,7 +63,7 @@ With the brass nicely polished, and some sunshine coming in the window, it was t
 We even started toying around with hanging the bubble from a brass Six Twist Essential, that I had previously put together.
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/761800134?h=a1a5c29161&autoplay=1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<p><a href="https://vimeo.com/761800134">30-push-dangle.mp4</a> from <a href="https://vimeo.com/user187079381">Get Pretenst</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/761800134">30-push-dangle.mp4</a> from <a href="https://vimeo.com/user187079381">Gerald de Jong</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 This was a lovely result indeed. In fact, I decided to take it home with me.
 
@@ -81,7 +81,7 @@ This little brass bubble could be tightened such that it becomes possible to *dr
 
 After playing around a little, it became clear that I simply hade to take the next step and build a **bigger** brass bubble, but this time I would need to deepen my understanding of the structure.
 
-I set up a new comfortable programming environment and started working on a special version of the [pretenst app](/app/) to help me develop the intuitions for the new bubble with **120 struts**.
+I set up a new comfortable programming environment and started working on a special version of the tensegrity app to help me develop the intuitions for the new bubble with **120 struts**.
 
 ![programming](/images/2021-05/programming-environment.jpg)
 

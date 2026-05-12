@@ -16,7 +16,7 @@ It was the first really complicated tensegrity structure that I had attempted!
 
 ![me](/images/2020-11/through-halo.jpg)
 
-About a year ago today, I jumped in the deep end and tried to build a physical structure that was complicated enough that it could have only realistically been [generated on a computer](https://pretenst.com/app/#construction;Halo-by-Crane).
+About a year ago today, I jumped in the deep end and tried to build a physical structure that was complicated enough that it could have only realistically been generated on a computer.
 
 ![building halo](/images/2020-10/twists-on-pvc-4.jpg)
 
@@ -78,7 +78,7 @@ It was a remarkably difficult puzzle to put it all together in the end, and it t
 
 This time I continued with the much easier strategy that I had used to build [Convergence](/construction/2021/10/20/convergence), which involved cutting and preparing the cords **just in time** for when they needed to be added to the structure.
 
-This way you never need to identify all the elements, and everything is done visually using the [app](https://pretenst.com/app/#construction;Halo-by-Crane) at every step of the way.
+This way you never need to identify all the elements, and everything is done visually using the app at every step of the way.
 
 ![halo app](/images/2021-10/halo-app.png)
 

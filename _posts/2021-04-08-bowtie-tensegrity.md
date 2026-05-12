@@ -16,7 +16,7 @@ The recent explorations into the [Six Twist Essential](/construction/2021/03/29/
 
 ![tension hex](/images/2021-03/tension-hex.jpg)
 
-Before I started building these, I considered it normal build towers that resisted bending by using the triangulated configuration that [Ken Snelson used](https://krollermuller.nl/en/kenneth-snelson-needle-tower) in my [Brass and tulips](/construction/2020/10/12/brass-and-tulips) project, and later just kept going on that track to build the crazy [Halo by Crane](https://pretenst.com/construction/2020/10/26/halo-1) structure.
+Before I started building these, I considered it normal build towers that resisted bending by using the triangulated configuration that [Ken Snelson used](https://krollermuller.nl/en/kenneth-snelson-needle-tower) in my [Brass and tulips](/construction/2020/10/12/brass-and-tulips) project, and later just kept going on that track to build the crazy [Halo by Crane](/works/halo-1/) structure.
 
 This pulls the hexagons into **zig-zags** and makes adjacent twists snuggle closer and interpenetrate. The end result is a rigidity where some "Jitterbugging" takes place where the triangles twist.
 
@@ -32,7 +32,7 @@ What was previously a hexagon of tension in the minimal case gets a new diagonal
 
 ## First in the virtual
 
-Firs thing I had to do was rewrite the [app](/app/) to enable these different connection strategies.
+Firs thing I had to do was rewrite the app to enable these different connection strategies.
 
 * Minimal
 * Snelson style

@@ -50,7 +50,7 @@ I decided to try and build something like a body.
 
 ## Headless Hug
 
-All the necessary machinery was already in place from my previous work with the [app](/app/) to explore this design space.
+All the necessary machinery was already in place from my previous work with the app to explore this design space.
 
 When I generate new branches of tensegrity with opposite chirality, the opposite twists look kind of like limbs.
 

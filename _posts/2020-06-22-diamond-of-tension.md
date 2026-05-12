@@ -79,12 +79,12 @@ The diamonds can just as well be pre-measured **while slack** and later tensed w
 
 My apologies for violating a fundamental tensegrity principle for illustrative purposes, but with the cheesy wire tension it should be clear that nobody is supposed to take this tensegrity seriously anyway.
 
-[phi24-0]: https://pretenst.com/images/2020-06/phi24-0.jpg
-[phi24-1]: https://pretenst.com/images/2020-06/phi24-1.jpg
-[phi24-2]: https://pretenst.com/images/2020-06/phi24-2.jpg
-[phi24-a]: https://pretenst.com/images/2020-06/phi24-a.jpg
-[phi24-b]: https://pretenst.com/images/2020-06/phi24-b.jpg
-[phi24-c]: https://pretenst.com/images/2020-06/phi24-c.jpg
-[phi24-d]: https://pretenst.com/images/2020-06/phi24-d.jpg
-[phi24-e]: https://pretenst.com/images/2020-06/phi24-e.jpg
-[phi24-z]: https://pretenst.com/images/2020-06/phi24-z.jpg
+[phi24-0]: /images/2020-06/phi24-0.jpg
+[phi24-1]: /images/2020-06/phi24-1.jpg
+[phi24-2]: /images/2020-06/phi24-2.jpg
+[phi24-a]: /images/2020-06/phi24-a.jpg
+[phi24-b]: /images/2020-06/phi24-b.jpg
+[phi24-c]: /images/2020-06/phi24-c.jpg
+[phi24-d]: /images/2020-06/phi24-d.jpg
+[phi24-e]: /images/2020-06/phi24-e.jpg
+[phi24-z]: /images/2020-06/phi24-z.jpg

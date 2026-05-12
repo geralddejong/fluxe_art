@@ -75,14 +75,14 @@ When stressed, this version of the 6-strut tensegrity can be easily flattened. T
 
 Sometimes we might think of replacing the tension triangles with something, perhaps with a fabric triangle. This experiment makes me realize that a fabric triangle would behave very differently, because it would be a middle ground between the original and this one.
 
-[triangle]: https://pretenst.com/images/2020-06/final-3.jpg
-[radial-1]: https://pretenst.com/images/2020-07/radial-1.jpg
-[radial-0]: https://pretenst.com/images/2020-07/radial-0.jpg
-[radial-b]: https://pretenst.com/images/2020-07/radial-b.jpg
-[radial-c]: https://pretenst.com/images/2020-07/radial-c.jpg
-[radial-d]: https://pretenst.com/images/2020-07/radial-d.jpg
-[radial-e]: https://pretenst.com/images/2020-07/radial-e.jpg
-[radial-h]: https://pretenst.com/images/2020-07/radial-h.jpg
-[radial-j]: https://pretenst.com/images/2020-07/radial-j.jpg
-[radial-x]: https://pretenst.com/images/2020-07/radial-x.jpg
-[radial-y]: https://pretenst.com/images/2020-07/radial-y.jpg
+[triangle]: /images/2020-06/final-3.jpg
+[radial-1]: /images/2020-07/radial-1.jpg
+[radial-0]: /images/2020-07/radial-0.jpg
+[radial-b]: /images/2020-07/radial-b.jpg
+[radial-c]: /images/2020-07/radial-c.jpg
+[radial-d]: /images/2020-07/radial-d.jpg
+[radial-e]: /images/2020-07/radial-e.jpg
+[radial-h]: /images/2020-07/radial-h.jpg
+[radial-j]: /images/2020-07/radial-j.jpg
+[radial-x]: /images/2020-07/radial-x.jpg
+[radial-y]: /images/2020-07/radial-y.jpg

@@ -117,7 +117,7 @@ Each one has its own unique QR-code identity. They have been very well received 
 
 ![dof-qr][dof-qr]
 
-They're not very expensive. Ping us if you want us at **pretenst@gmail.com** if you want us to make one for you.
+They're not very expensive. Get in touch if you want us to make one for you.
 
 ![dof-portrait-2][dof-portrait-2]
 

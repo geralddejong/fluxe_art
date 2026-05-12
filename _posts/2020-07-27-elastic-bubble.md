@@ -11,7 +11,7 @@ redirect_from:
 featured_image: /images/2020-07/bubble-a.jpg
 ---
 
-<meta property="og:image" content="https://pretenst.com/images/2020-07/bubble-z.jpg" />
+<meta property="og:image" content="/images/2020-07/bubble-z.jpg" />
 
 
 ## An Empty Bubble
@@ -22,7 +22,7 @@ My goal was to build an empty bubble!
 
 ![bubble][bubble-a]
 
-With some cutting, drilling, and knotting, I wanted to build a small tensegrity sphere, which should be a bit bouncy and behave like a bubble as it does in the [pretenst app](https://pretenst.com/app/#sphere-1).
+With some cutting, drilling, and knotting, I wanted to build a small tensegrity sphere, which should be a bit bouncy and behave like a bubble as it does in the tensegrity app.
 
 The app gives this picture:
 
@@ -135,21 +135,21 @@ Now since I do so love the left-right symmetry, I had to build the other one of 
 
 With everything in place, and the experience of the first one, I was able to build its sister in about 2.5 hours from start to finish.
 
-[bubble-0]: https://pretenst.com/images/2020-07/bubble-0.jpg
-[bubble-a]: https://pretenst.com/images/2020-07/bubble-a.jpg
-[bubble-b]: https://pretenst.com/images/2020-07/bubble-b.jpg
-[bubble-c]: https://pretenst.com/images/2020-07/bubble-c.jpg
-[bubble-d]: https://pretenst.com/images/2020-07/bubble-d.jpg
-[bubble-e]: https://pretenst.com/images/2020-07/bubble-e.jpg
-[bubble-f]: https://pretenst.com/images/2020-07/bubble-f.jpg
-[bubble-g]: https://pretenst.com/images/2020-07/bubble-g.jpg
-[bubble-h]: https://pretenst.com/images/2020-07/bubble-h.jpg
-[bubble-i]: https://pretenst.com/images/2020-07/bubble-i.jpg
-[bubble-j]: https://pretenst.com/images/2020-07/bubble-j.jpg
-[bubble-k]: https://pretenst.com/images/2020-07/bubble-k.jpg
-[bubble-l]: https://pretenst.com/images/2020-07/bubble-l.jpg
-[bubble-m]: https://pretenst.com/images/2020-07/bubble-m.jpg
-[bubble-n]: https://pretenst.com/images/2020-07/bubble-n.jpg
-[bubble-s]: https://pretenst.com/images/2020-07/bubble-s.jpg
-[bubble-z]: https://pretenst.com/images/2020-07/bubble-z.jpg
-[bubble-zz]: https://pretenst.com/images/2020-07/bubble-zz.jpg
+[bubble-0]: /images/2020-07/bubble-0.jpg
+[bubble-a]: /images/2020-07/bubble-a.jpg
+[bubble-b]: /images/2020-07/bubble-b.jpg
+[bubble-c]: /images/2020-07/bubble-c.jpg
+[bubble-d]: /images/2020-07/bubble-d.jpg
+[bubble-e]: /images/2020-07/bubble-e.jpg
+[bubble-f]: /images/2020-07/bubble-f.jpg
+[bubble-g]: /images/2020-07/bubble-g.jpg
+[bubble-h]: /images/2020-07/bubble-h.jpg
+[bubble-i]: /images/2020-07/bubble-i.jpg
+[bubble-j]: /images/2020-07/bubble-j.jpg
+[bubble-k]: /images/2020-07/bubble-k.jpg
+[bubble-l]: /images/2020-07/bubble-l.jpg
+[bubble-m]: /images/2020-07/bubble-m.jpg
+[bubble-n]: /images/2020-07/bubble-n.jpg
+[bubble-s]: /images/2020-07/bubble-s.jpg
+[bubble-z]: /images/2020-07/bubble-z.jpg
+[bubble-zz]: /images/2020-07/bubble-zz.jpg

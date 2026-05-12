@@ -17,7 +17,7 @@ It was not easy, but this exploration with a prototype is supposed to lead to co
 
 ## Model
 
-I started by making a virtual model using the **pretenst** app, focusing on the joints where the tension cords come together. If the struts are to only push on the tension network, they must have something to push on, so I decided to make them spherical. This is an image of it ray traced by **blender**:
+I started by making a virtual model using the **tensegrity** app, focusing on the joints where the tension cords come together. If the struts are to only push on the tension network, they must have something to push on, so I decided to make them spherical. This is an image of it ray traced by **blender**:
 
 ![virtual][virtual]
 
@@ -142,28 +142,28 @@ Every ball is ever so slightly captured by its spherical surface being nested in
 
 In your hands the structure feels a bit like magic because it's remarkably tight, so I have to say: mission accomplished! The process was a bit too tricky, though. Several aspects may lend themselves to simplification, so that will have to be the focus of a future construction.
 
-[virtual]: https://pretenst.com/images/2020-06/joint-sphere-detail-gradient.png
-[start]: https://pretenst.com/images/2020-06/start.jpg
-[aluminum-0]: https://pretenst.com/images/2020-06/aluminum-0.jpg
-[aluminum-1]: https://pretenst.com/images/2020-06/aluminum-1.jpg
-[aluminum-2]: https://pretenst.com/images/2020-06/aluminum-2.jpg
-[aluminum-3]: https://pretenst.com/images/2020-06/aluminum-3.jpg
-[connect-0]: https://pretenst.com/images/2020-06/connect-0.jpg
-[connect-1]: https://pretenst.com/images/2020-06/connect-1.jpg
-[connect-3]: https://pretenst.com/images/2020-06/connect-3.jpg
-[connect-4]: https://pretenst.com/images/2020-06/connect-4.jpg
-[drill-1]: https://pretenst.com/images/2020-06/drill-1.jpg
-[drill-2]: https://pretenst.com/images/2020-06/drill-2.jpg
-[final-1]: https://pretenst.com/images/2020-06/final-1.jpg
-[final-3]: https://pretenst.com/images/2020-06/final-3.jpg
-[final-4]: https://pretenst.com/images/2020-06/final-4.jpg
-[hang-1]: https://pretenst.com/images/2020-06/hang-1.jpg
-[hang-2]: https://pretenst.com/images/2020-06/hang-2.jpg
-[holes-2]: https://pretenst.com/images/2020-06/holes-2.jpg
-[holes-3]: https://pretenst.com/images/2020-06/holes-3.jpg
-[holes-4]: https://pretenst.com/images/2020-06/holes-4.jpg
-[holes-5]: https://pretenst.com/images/2020-06/holes-5.jpg
-[marked-1]: https://pretenst.com/images/2020-06/marked-1.jpg
-[marked-2]: https://pretenst.com/images/2020-06/marked-2.jpg
-[measure-1]: https://pretenst.com/images/2020-06/measure-1.jpg
-[measure-3]: https://pretenst.com/images/2020-06/measure-3.jpg
+[virtual]: /images/2020-06/joint-sphere-detail-gradient.png
+[start]: /images/2020-06/start.jpg
+[aluminum-0]: /images/2020-06/aluminum-0.jpg
+[aluminum-1]: /images/2020-06/aluminum-1.jpg
+[aluminum-2]: /images/2020-06/aluminum-2.jpg
+[aluminum-3]: /images/2020-06/aluminum-3.jpg
+[connect-0]: /images/2020-06/connect-0.jpg
+[connect-1]: /images/2020-06/connect-1.jpg
+[connect-3]: /images/2020-06/connect-3.jpg
+[connect-4]: /images/2020-06/connect-4.jpg
+[drill-1]: /images/2020-06/drill-1.jpg
+[drill-2]: /images/2020-06/drill-2.jpg
+[final-1]: /images/2020-06/final-1.jpg
+[final-3]: /images/2020-06/final-3.jpg
+[final-4]: /images/2020-06/final-4.jpg
+[hang-1]: /images/2020-06/hang-1.jpg
+[hang-2]: /images/2020-06/hang-2.jpg
+[holes-2]: /images/2020-06/holes-2.jpg
+[holes-3]: /images/2020-06/holes-3.jpg
+[holes-4]: /images/2020-06/holes-4.jpg
+[holes-5]: /images/2020-06/holes-5.jpg
+[marked-1]: /images/2020-06/marked-1.jpg
+[marked-2]: /images/2020-06/marked-2.jpg
+[measure-1]: /images/2020-06/measure-1.jpg
+[measure-3]: /images/2020-06/measure-3.jpg

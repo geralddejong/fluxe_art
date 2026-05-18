@@ -7,7 +7,7 @@ tags: [tensegrity]
 redirect_from:
   - /construction/2021/12/02/headless-hug.html
   - /construction/2021/12/02/headless-hug
-featured_image: /images/2021-12/headless-tensegrity-mirror.jpg
+featured_image: /images/2021-12/headless-hug.png
 ---
 
 ## Breaking a rule

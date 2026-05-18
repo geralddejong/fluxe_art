@@ -7,7 +7,7 @@ tags: [tensegrity]
 redirect_from:
   - /construction/2020/10/12/brass-and-tulips.html
   - /construction/2020/10/12/brass-and-tulips
-featured_image: /images/2020-09/brass-0.jpg
+featured_image: /images/2020-10/brass-and-tulips.png
 ---
 
 ## Turn up the Tension

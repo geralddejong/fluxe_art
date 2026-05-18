@@ -7,7 +7,7 @@ tags: [tensegrity]
 redirect_from:
   - /construction/2021/01/18/degrees-of-freedom.html
   - /construction/2021/01/18/degrees-of-freedom
-featured_image: /images/2021-01/dof-precursor-1.jpg
+featured_image: /images/2021-01/degrees-of-freedom.png
 ---
 
 ## A New Twist

@@ -7,7 +7,7 @@ tags: [tensegrity]
 redirect_from:
   - /construction/2021/03/10/do-the-twist.html
   - /construction/2021/03/10/do-the-twist
-featured_image: /images/2021-03/twist-virtual-actual.png
+featured_image: /images/2021-03/do-the-twist.png
 ---
 
 ## Our building block

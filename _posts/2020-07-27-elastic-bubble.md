@@ -8,7 +8,7 @@ tags: [tensegrity]
 redirect_from:
   - /construction/2020/07/27/elastic-bubble.html
   - /construction/2020/07/27/elastic-bubble
-featured_image: /images/2020-07/bubble-a.jpg
+featured_image: /images/2020-07/elastic-bubble.png
 ---
 
 <meta property="og:image" content="/images/2020-07/bubble-z.jpg" />

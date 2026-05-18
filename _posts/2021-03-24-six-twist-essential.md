@@ -7,7 +7,7 @@ tags: [tensegrity]
 redirect_from:
   - /construction/2021/03/24/six-twist-essential.html
   - /construction/2021/03/24/six-twist-essential
-featured_image: /images/2021-03/tension-hex.jpg
+featured_image: /images/2021-03/six-twist-essential.png
 ---
 
 # The Perception Gap

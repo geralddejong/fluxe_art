@@ -8,7 +8,7 @@ tags: [tensegrity]
 redirect_from:
   - /construction/2020/08/10/prefab-tension-tower.html
   - /construction/2020/08/10/prefab-tension-tower
-featured_image: /images/2020-08/tower-0.png
+featured_image: /images/2020-08/prefab-tension-tower.png
 ---
 
 ## Screw Tightening

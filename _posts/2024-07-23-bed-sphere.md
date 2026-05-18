@@ -7,7 +7,7 @@ tags: [tensegrity]
 redirect_from:
   - /construction/2024/07/23/bed-sphere.html
   - /construction/2024/07/23/bed-sphere
-featured_image: /images/2024-07/bed.jpg
+featured_image: /images/2024-07/bed-sphere.png
 ---
 
 ## Found a discarded bed

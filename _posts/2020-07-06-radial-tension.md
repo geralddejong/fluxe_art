@@ -8,7 +8,7 @@ tags: [tensegrity]
 redirect_from:
   - /construction/2020/07/06/radial-tension.html
   - /construction/2020/07/06/radial-tension
-featured_image: /images/2020-06/final-3.jpg
+featured_image: /images/2020-07/radial-tension.png
 ---
 
 ## The Tension Triangle

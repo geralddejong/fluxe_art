@@ -6,7 +6,7 @@ categories: construction
 redirect_from:
   - /construction/2020/06/22/diamond-of-tension.html
   - /construction/2020/06/22/diamond-of-tension
-featured_image: /images/2020-06/phi24-0.jpg
+featured_image: /images/2020-06/diamond-of-tension.png
 ---
 
 ## Tensegrity Violation!

@@ -7,7 +7,7 @@ tags: [tensegrity, 3D-Printing]
 redirect_from:
   - /construction/2022/05/30/hiding-knots.html
   - /construction/2022/05/30/hiding-knots
-featured_image: /images/2022-05/ugly-knot.jpg
+featured_image: /images/2022-05/hiding-knots.png
 ---
 
 ## Ugly knots?

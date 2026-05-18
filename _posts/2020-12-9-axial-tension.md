@@ -7,7 +7,7 @@ tags: [tensegrity]
 redirect_from:
   - /construction/2020/12/09/axial-tension.html
   - /construction/2020/12/09/axial-tension
-featured_image: /images/2020-09/brass-j1.jpg
+featured_image: /images/2020-12/axial-tension.png
 ---
 
 ## Tensegrity Tower as Spring

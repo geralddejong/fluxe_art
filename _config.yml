@@ -12,9 +12,10 @@ lab_url: /lab/
 # GoatCounter analytics (production only)
 goatcounter_code: fluxe-art
 
-# Optional socials — uncomment when accounts exist
-# instagram_url: https://instagram.com/fluxe
-# youtube_url:   https://youtube.com/@fluxe
+# Socials
+x_url:         https://x.com/fluxe
+instagram_url: https://www.instagram.com/fluxe.art
+# youtube_url: https://youtube.com/@fluxe
 
 # GitHub link kept for SEO / metadata
 github:

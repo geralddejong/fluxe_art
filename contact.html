@@ -25,7 +25,7 @@ permalink: /contact/
       <label class="form-label" for="cf-message">Message</label>
       <textarea class="form-input form-textarea" id="cf-message" name="message" rows="6" required></textarea>
     </div>
-    <button class="btn-cta" type="submit">Send message</button>
+    <button class="btn-cta" type="submit">Start the conversation</button>
   </form>
 </div>
 
@@ -77,10 +77,18 @@ permalink: /contact/
     </div>
     {% endif %}
 
+    {% if site.x_url %}
+    <div class="contact-channel">
+      <span class="channel-label">X</span>
+      <a class="channel-link" href="{{ site.x_url }}" target="_blank" rel="noopener">@fluxe</a>
+      <span class="channel-handle">Notes &amp; updates</span>
+    </div>
+    {% endif %}
+
     {% if site.instagram_url %}
     <div class="contact-channel">
       <span class="channel-label">Instagram</span>
-      <a class="channel-link" href="{{ site.instagram_url }}" target="_blank" rel="noopener">@fluxe</a>
+      <a class="channel-link" href="{{ site.instagram_url }}" target="_blank" rel="noopener">@fluxe.art</a>
       <span class="channel-handle">Latest work &amp; builds</span>
     </div>
     {% endif %}

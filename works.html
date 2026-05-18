@@ -5,7 +5,7 @@ description: A catalogue of tensegrity sculptures, builds and experiments by Ger
 permalink: /works/
 ---
 
-<header class="page-header reveal">
+<header class="page-header">
   <span class="page-eyebrow">Catalogue</span>
   <h1 class="page-title">The Works</h1>
   <p class="page-foreword">Every piece here began as code. A physics engine, a simulation, a digital structure tested to its limits before it became real. What you see in this catalogue is not a collection of finished objects &mdash; it's a record of questions asked in steel and cable, each one building on the last.</p>
@@ -30,7 +30,7 @@ permalink: /works/
 
 <div class="works-grid" id="worksGrid">
   {% for post in site.posts %}
-  <a class="work-card reveal" href="{{ post.url | relative_url }}" data-year="{{ post.date | date: '%Y' }}" aria-label="{{ post.title | escape }}, {{ post.date | date: '%Y' }}">
+  <a class="work-card" href="{{ post.url | relative_url }}" data-year="{{ post.date | date: '%Y' }}" aria-label="{{ post.title | escape }}, {{ post.date | date: '%Y' }}">
     <div class="work-thumb">
       {% if post.featured_image %}
         <img src="{{ post.featured_image | relative_url }}" alt="{{ post.title | escape }}" loading="lazy" />
@@ -58,12 +58,12 @@ permalink: /works/
 
 <div class="works-cta">
   <div class="works-cta-inner">
-    <div class="works-cta-left reveal">
+    <div class="works-cta-left">
       <h2 class="cta-headline">The next one could be yours.</h2>
       <p class="cta-sub">Every build starts with a conversation.</p>
       <a href="{{ '/contact/' | relative_url }}" class="btn btn--accent">Get in touch &rarr;</a>
     </div>
-    <div class="works-cta-right reveal">
+    <div class="works-cta-right">
       <p class="cta-lab-text">Want to see where the next build begins before it's real?</p>
       <a href="{{ '/lab/' | relative_url }}" class="btn btn--ghost">Explore the lab &rarr;</a>
     </div>

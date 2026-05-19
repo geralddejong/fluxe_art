@@ -41,9 +41,9 @@ In practice, the plastic creep of a freshly tensioned Dyneema cable is something
 
 ## Building
 
-By June the parts started arriving in Rotterdam and the huge welding job was started for the huge number of strut caps. The first parts were for the arms so we got started, even though the rest was not. yet finished. Here was where we encountered the deadly problem which was to plague the whole construction process.
+By June the parts started arriving in Rotterdam and the welding job was started for the huge number of strut caps. The first parts which arrived were for the arms so we got started, even though the rest was not yet available. Here was where we encountered the deadly problem which was to plague the whole construction process.
 
-Both the bolt and the nut at the end of each strut was to be the means by which we bring about a significant amount of pre-tension in the structure.  Unfortunately the materials for both of these was stainless steel, and we discovered that stainless steel bolts and nuts are problematic.  Something about the material's characteristics made the bolts sieze up!!  We were unable to turn the bolts inside the welded nuts, since they were anywhere from very hard to turn all the way to actually frozen solid. 
+Both the bolt and the nut at the end of each strut was to be the means by which we bring about a significant amount of pre-tension in the structure.  We would turn the bolt counterclockwise and this would lengthen the strut. Unfortunately the materials for both of these was **stainless steel**, and we discovered that stainless steel bolts and nuts are problematic.  Something about the material's characteristics made the bolts sieze up!!  We were unable to turn the bolts inside the welded nuts, since they were anywhere from very hard to turn all the way to actually frozen solid. 
 
 This was a huge problem, and it affected everything about the structure.  We could not properly lengthen the struts to bring about tension.
 
@@ -53,75 +53,89 @@ Eventually we were able to construct the arms and the legs, with the torso secti
 
 ![arms and legs](/images/2025-08/arm-legs.jpg)
 
-We had the arms/shoulders and the legs/torso assembled and the clock was ticking, so we had to figure out how to get the object transported to the festival site.  Originally the idea was that we could simply screw all the bolts out, stack up the bars, fold up the network of cables and caps, and it would be compact.
+We had the arms/shoulders and the legs/torso assembled and the clock was ticking, so we had to figure out how to get the object transported to the festival site.  Originally the idea was that we could simply screw all the bolts out, stack the bars, fold up the network of cables and caps, and it would be compact.
 
-However, now that the bolts were being extremely difficult, we could not remove all the bars, so we had to choose particular cables to sever and we were able to break it into parts which could potentially fit on a truck.  This was very difficult, to say the least.
+However, now that the bolts were being extremely difficult, we could not remove the bars, so we had to choose particular cables to sever and we were able to break it into parts which could potentially fit on a truck.  This was very difficult, to say the least.
+
+Every day was a roller coaster of emotions, going back and forth between hopelessness and new glimmers of hope. It also happened to be a heat wave so we were sweating in 32C temperatures.
 
 ## On the truck
 
-Late June: containers were placed at Netl, parts loaded onto the truck in Rotterdam, and De Twips left Rotterdam for the site on the Noordoostpolder.  It was a herculean effort for everyone involved to get these parts on the truck and tie them down so that it could all be safely moved on the highways.
+Late June: containers were placed at Netl, the severed parts were guided through an opening that was just large enough for them to pass, and amazingly we loaded them onto the truck in Rotterdam.  We were exhausted but there was hope again, and De Twips left Rotterdam for the site on the Noordoostpolder.  It was a herculean effort for everyone involved to get these parts on the truck and tie them down so that it could all be safely moved on the highways.  Later we found out that he had been stopped by police on the highway to check his load.
 
 ![on the truck](/images/2025-08/on-the-truck.jpg)
 
 ## Arrived onsite
 
-At Netl de Wildste Tuin we laid him out on the grass. The pelvis came together first, the limbs found their places, the cable network was strung between them. There is a moment in every tensegrity build where the shape is implied but not yet realized — the parts are all touching the right neighbors, the slack is enormous, and only the final tightening will pull a recognizable form out of the pile.
+At Netl de Wildste Tuin we found the the parts laid out on the grass. The picture below is of the pelvis which looked impossible to reconstruct at first.  The individual leg portions and the shoulders/arms were laying separately.  We had a lot of work to do still, reconnecting the cords that we had had to sever, and the whole time battling with the seized up or partially seized up stainless steel bolt mechanism in the struts.
 
 ![the pelvis](/images/2025-08/the-pelvis.jpg)
 
 ## Erection day
 
-Marijn ran the crane. Sophie ran the site. We ran on coffee and adrenaline.
+It was again hot, around 33C, but we got busy connecting the parts together after having untangled the pelvis section.  It was amazing but we were able to connect the whole structure together and with a whole lot of strong-arm effort we were able to lengthen the struts to create some pre-tension.  There was De Twips, laying on the grass.
 
 ![erection day](/images/2025-08/erection-day-composite.jpg)
 
-He went up. He stood. For a few minutes, on the morning of the first festival, ten meters of humanoid tensegrity stood on two shipping containers in the polder, and it was as close to the original drawing as we were ever going to get.
+We requested the big telescopic lifter vehicle and we were able to lift the entire structure up on top of the containers and connect it in place.  The structure weighed about 800kg so it was no small feat.
+
+Another difficult aspect was the guy lines that were necessary to hold him upright, since the connections at the ends of the legs were able to pivot. Getting the tension on the guy lines was very tricky indeed and it took a long time, while the lift vehicle had to remain in place to hold it up.
+
+The visual impression it gave when you were near it was quite breathtaking!  The scale of it was really enough to make you stare.
 
 ## We have a problem
 
-Then the wind picked up, and the left leg gave.
+Then the crucial moment came when we had the guy lines in place and he was standing upright, because of course he had to be released from the crane and stand on his own.  It almost looked good for a moment, and the emotional roller coaster hit a brief high point, however upon further inspection we could see that the pre-tension was nowhere near enough.  One of his legs was bent, simply too weak, and this was a portion of the structure where the struts were completely seized up and we couldn't lengthen them at all anymore.
 
 ![weak leg](/images/2025-08/weak-leg-composite.jpg)
 
-The diagonal stay pattern — crossed cables doing double duty as both bracing and visual rhythm — couldn't carry the lateral load. With Dyneema's residual creep on top of an already marginal scheme, the leg buckled inward and the whole figure began to tilt.
+Maybe people who don't understand tensegrity could look at it and not see a big problem, but my heart sank when I saw loose cables and there were also bars which were nearly touching each other.  I became quite despondent.
 
-## Take him down
+## Second attempt
 
-There was no choice. We took him down before he came down on his own.
+There was no choice, we had to take him down and lay him in the grass again while we figured out what to do next, or if indeed anything could be done.  The time remaining until the first festival was too short, so we had to give up for now and lay De Twips in a field which was hidden from the festival attendees.  We had missed the first festival, which was very painful.
 
 ![take him down](/images/2025-08/take-him-down.jpg)
 
-Wilde Weide opened without De Twips standing. That hurt. It hurt the team, it hurt the schedule, and it hurt the story we had told ourselves about the build.
-
 ## Stabilization
 
-In the next 48 hours we redesigned, on-site. **Jeroen Padmos** from Konvooi drove up with a welder and a load of steel and built a pyramid support — a proper rigid base — that would carry De Twips the rest of the way through. It was less elegant than the original container mount. It was also, obviously, more honest.
+Between the first festival and the second we had another chance to erect De Twips, but it was clear that he could not stand on his own.  We got help from a very clever and capable builder Jeroen who constructed a kind of emergency "saddle" for him to lean on.
+
+Beyond that, we also put in a valiant effort to add tension cables in various places to stablilize the structure.  None of this was very pleasing, but we really had no choice.
 
 ![stabilization measures](/images/2025-08/stabilization-measures.jpg)
 
 ## The saddle
 
-A new saddle bridged the steel pyramid to the figure's pelvis. Where the containers had been a sculptural choice, the steel pyramid was a structural one, and the work of integrating it back into the silhouette fell to whatever inventiveness we had left.
+A new saddle bridged the steel pyramid to the figure's pelvis. It was mounted on the containers and, quite remarkably, it was all well enough designed and built that it was sufficiently solid.
 
 ![the saddle](/images/2025-08/the-saddle.jpg)
 
-## Looking good
+## On the saddle
 
-By the time Wildeburg's gates opened on 9 July, the figure was up again — this time on Jeroen's pyramid, with a re-tensioned cable network, and a quiet promise to ourselves that we would not panic.
+Once again we got the telescoping crane and lifted De Twips up, but this time the challenge was to connect the apex of the new steel pyramid to the pelvis section. 
+
+I was almost in disbelief but it actually stood and it was solid enough to be deemed safe for the second festival.
 
 ![looking good](/images/2025-08/looking-good.jpg)
 
+On the one hand I was relieved and happy that it stood, but on the other hand this didn't feel like a great achievement because it was not standing on its own. 
+
+Again, this is a situation where perhaps most people looking at it would not notice a big problem but my tensegrity-tuned sensibilities are in extreme pain from it.  But, the show had to go on!
+
 ## Wildeburg
 
-He stood for the festival.
+He stood for the festival.  It was an amazing sight (if you didn't see what I saw) and you could tell that people were impressed.  Especially with the lighting that had been set up.  You could see De Twips from very far away and it was mindblowing to see the visual effect of a tensegrity this huge.
 
 ![it stood at wildeburg](/images/2025-08/it-stood-at-wildeburg-composite.jpg)
 
-Five days and nights of underground music, hidden stages, deliberate getting-lost. De Twips watched over the whole thing, a slightly strange-looking man in the polder, holding his ground.
+I went to the festival and I kept going back to De Twips every once in a while to once again gaze in wonder at how impressive this thing appeared to be.  It was fun meeting people and being able to tell them that I was the artist responsible, and I was able to set aside the problems and start to forget all the extreme effort and the roller coaster of hope and disappointment that led up to this.
 
-There is something undignified about a recovery, and something dignified about a structure that earns its place after almost not earning it. By the end of Wildeburg I had stopped being embarrassed about the steel pyramid and started being proud of it.
+## Takeaways
 
-## What I take from it
+
+
+
 
 A few things, plainly:
 
@@ -133,8 +147,4 @@ A few things, plainly:
 
 ## Postscript
 
-The structure came down on 16 July and was packed into a container at Netl on the 18th. We canceled the rest of the season — Into the Woods, ADE — rather than try to repeat the build without the redesign it deserved.
-
-That redesign is in progress. It will not be a man. It will be simpler, lower to the ground, easier to stand up, and far less inclined to negotiate with the wind. But that is a story for the next post.
-
-For now: thank you to the team that stayed in the polder when the plan was failing — Ate, Siep, Sophie, Marijn, Martin, Jeroen — and to **Wildeburg**, for letting a structure that nearly didn't stand, stand.
+The structure came down on the 16th July and was packed into a container at Netl on the 18th. We canceled the rest of the season — Into the Woods, ADE — rather than try to repeat the build without the redesign it deserved.

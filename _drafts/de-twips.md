@@ -131,20 +131,20 @@ He stood for the festival.  It was an amazing sight (if you didn't see what I sa
 
 I went to the festival and I kept going back to De Twips every once in a while to once again gaze in wonder at how impressive this thing appeared to be.  It was fun meeting people and being able to tell them that I was the artist responsible, and I was able to set aside the problems and start to forget all the extreme effort and the roller coaster of hope and disappointment that led up to this.
 
-## Takeaways
+## Lessons learned
 
+This whole adventure was in one sense very unwise, and the evidence is in that it should have been done differently.  The main points are these:
 
+1. **Prototyping at scale.** We attempted a prototype, it showed problems with the initial choices, but we skipped over the process of re-doing the prototype until the results were convincing and satisfying.
+2. **Surrendering to time constraints.** We didn't do a second prototype because we assumed that we were smart enough to jump from the unsatisfying prototype to a new design that would just work.  If we had done another prototype, we would have discovered the problem with the stainless steel threading.  We should have **dared** to just call off the project, but we thought we were smart.
+3. **A humanoid form is too ambitious as a first-of-its-kind.** Since this was the first structure that we were building at this scale, we should have gone for a much more straightforward design without the fancy degree of freedom that we imagined.  It should have also simply consisted of fewer parts, which would have made it less heavy and also less costly.
+4. **Weight matters.** The end result here weighed 800kg, which is monstrously heavy!  Calculations must have ratcheted up. It has to have a certain strength, therefore the elements must be of a certain thickness, which made them heavier, which raised the strength requirements, etc.  We should have been looking for every opportunity to reduce the weight, which would have allowed the design to settle on something much lighter.
+5. **Beware of stainless steel.** The most painful discovery of all was that stainless steel bolt and threading is a recipe for disaster since the thread seizes up.  I still have nightmares.
 
+## We will not be defeated!
 
+In a number of ways, the project was a failure, but, admittedly, it was an extremely impressive sight to behold during the Wildeburg festival where it stood up high and lit with the spotlights.  When you have seen something like that, it makes you want to do it again and do it right.
 
-A few things, plainly:
+My son said it best when he saw these photographs. "It makes you want to kneel down and pray to it!".  Haha, yes, let's start a cult of tensegrity!
 
-1. **Dyneema is a beautiful material that lies to you about its stiffness.** For a structure of this scale, with this many cables, the residual plastic stretch is not a footnote. Next time: factory-made steel cables with proper terminations.
-2. **Crossed-rope stays are weak in wind.** Diagonal cable patterns look good on paper and behave badly when the wind decides it has opinions.
-3. **A humanoid form is too ambitious as a first-of-its-kind.** Limbs, articulations, asymmetric loads — every one of them multiplies the unknowns. A simpler form would have given us the same poetic effect with a fraction of the failure modes.
-4. **Build a prototype that lies as little as possible.** Not a small one for fit-check; a real one, at a real scale, that you actually try to stand up.
-5. **Emergency steel can be elegant.** Jeroen's pyramid did more for the work than I want to admit. Simple, rigid, fast — and visually striking in a way the containers never quite were.
-
-## Postscript
-
-The structure came down on the 16th July and was packed into a container at Netl on the 18th. We canceled the rest of the season — Into the Woods, ADE — rather than try to repeat the build without the redesign it deserved.
+The one thing that this project accomplished is that the festival organizers could not help but see the enthusiasm and passion that drove us to get it up for the Wildeburg festival, so they were open to giving us a chance to try again.  Stay tuned, because we will be **doing it right** next time!

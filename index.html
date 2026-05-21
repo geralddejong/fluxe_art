@@ -130,7 +130,7 @@ description: Tensegrity sculpture by Gerald de Jong. Steel, cable, tension, bala
       </div>
 
       <div class="home-works-grid">
-        {% assign featured_slugs = "bed-sphere|glass|fascia" | split: "|" %}
+        {% assign featured_slugs = "de-twips|glass|fascia" | split: "|" %}
         {% for slug in featured_slugs %}
           {% assign post = site.posts | where: "slug", slug | first %}
           {% if post %}

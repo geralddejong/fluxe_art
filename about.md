@@ -65,10 +65,13 @@ Snelson inspired me. I want these structures to inspire someone else — to chal
 
 ![Gerald standing in the middle of three tensegrity builds, camera angled from the floor upward.]({{ '/images/home/about-6.png' | relative_url }})
 
----
-
-## Want to know more about the process or the code?
-
-Whether it's about the physics behind it, the software that generates it, the construction techniques that make it real, or simply wanting to see it in person — get in touch.
-
-[Start the conversation →]({{ '/contact/' | relative_url }})
+<section class="section" id="contact-nudge" aria-labelledby="contact-heading">
+  <div style="max-width: 640px;">
+    <span class="section-label">Get in touch</span>
+    <h2 class="section-title" id="contact-heading">Want to know more about<br><em>the process or the code?</em></h2>
+    <p style="font-size:1.05rem; color: var(--text-secondary); line-height: 1.85; margin-bottom: 0.5rem;">
+      Whether it's about the physics behind it, the software that generates it, the construction techniques that make it real, or simply wanting to see it in person — get in touch.
+    </p>
+    <a href="{{ '/contact/' | relative_url }}" class="btn btn--accent btn-inline">Start the conversation →</a>
+  </div>
+</section>

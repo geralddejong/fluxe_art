@@ -35,7 +35,7 @@ I became a father in '93, and family rightfully took the foreground. But tensegr
 
 I even reached a point, inspired by the books of Richard Dawkins, to implement Darwinian evolution, with competing structures outfitted with virtual "muscles" and judged on their ability to walk/run/jump the furthest.  What was static evolved to *run like the wind* over thousands of generations.
 
-Now that my children are grown, I am raising physical sculptures so that they can hopefully grow and evolve as well.  I have been working to develop the systems and techniques for scaling up and exploring the design space of large tensegrity structures.  Any
+Now that my children are grown, I am raising physical sculptures so that they can hopefully grow and evolve as well.  I have been working to develop the systems and techniques for scaling up and exploring the design space of large tensegrity structures.  Soon I should be able to generate a new design with the software, predictably order parts, and start the assembly at this scale.
 
 ![Gerald holding one end of a long horizontal tensegrity piece.]({{ '/images/home/about-4.jpg' | relative_url }})
 

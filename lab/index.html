@@ -11,8 +11,8 @@
     <!-- config for our rust wasm binary. go to https://trunkrs.dev/assets/#rust for more customization -->
     
 <script type="module">
-import init, * as bindings from '/lab/tensegrity_lab-688e051d1271c473.js';
-const wasm = await init({ module_or_path: '/lab/tensegrity_lab-688e051d1271c473_bg.wasm' });
+import init, * as bindings from '/lab/tensegrity_lab-c68dd4f0b17a64f9.js';
+const wasm = await init({ module_or_path: '/lab/tensegrity_lab-c68dd4f0b17a64f9_bg.wasm' });
 
 
 window.wasmBindings = bindings;
@@ -24,14 +24,14 @@ dispatchEvent(new CustomEvent("TrunkApplicationStarted", {detail: {wasm}}));
     <!-- this is the base url relative to which other urls will be constructed. trunk will insert this from the public-url option -->
     <base href="/lab/" />
 
-    <link rel="icon" href="/lab/favicon-141821dc603e69f4.svg" integrity="sha384-FIYUgeXYomY1tqKNH+/mYchU/vPsdLhw50l7ARqm2e+2BA+vmm0Gb54HlaLRkbDv"/>
+    <link rel="icon" href="/lab/favicon-a7706944730e9ead.svg" integrity="sha384-zAilftyQw22mOeFEAI4w0e7/jyv6fNxIj6gkmhIcW1FvlpsX9BOfX6X8BMgwjBrb"/>
     <link rel="stylesheet" href="/lab/style-63c5e9cca71fdfc6.css" integrity="sha384-1qYLYtoTvO40tZErU3tZb50DmcJ9Oyaw5Mi6cLtfv+6NyHmVEMN5gqNQHpBJRdy9"/>
     
     
     
     <meta name="theme-color" media="(prefers-color-scheme: light)" content="white">
     <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#404040">
-<link rel="modulepreload" href="/lab/tensegrity_lab-688e051d1271c473.js" crossorigin="anonymous"><link rel="preload" href="/lab/tensegrity_lab-688e051d1271c473_bg.wasm" crossorigin="anonymous" as="fetch" type="application/wasm"></head>
+<link rel="modulepreload" href="/lab/tensegrity_lab-c68dd4f0b17a64f9.js" crossorigin="anonymous"><link rel="preload" href="/lab/tensegrity_lab-c68dd4f0b17a64f9_bg.wasm" crossorigin="anonymous" as="fetch" type="application/wasm"></head>
 <body>
 <div id="loading-screen">
     <span class="loader"></span>

@@ -333,7 +333,7 @@ hr.divider {
       rgba(7,17,30,0.75) 80%,
       var(--bg-base) 100%
     ),
-    url('/images/home/twips.jpg') center / cover no-repeat;
+    url('/images/home/open-claw.jpg') center / cover no-repeat;
   filter: saturate(0.5) brightness(0.7);
   animation: slowZoom 20s ease-in-out infinite alternate;
 }

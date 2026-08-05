@@ -6,13 +6,14 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 The source of **fluxe.art** — a Jekyll site about tensegrity (push-and-pull structures), deployed via GitHub Pages from the `master` branch. `CNAME` pins the custom domain. No CI workflows; GH Pages builds automatically on push.
 
-The site has three coexisting things in the same repo:
+The site has two coexisting things in the same repo:
 
 1. **Jekyll site** — top-level `*.md` pages, `_posts/`, `_layouts/`, `_includes/`. Driven by `_config.yml` (theme `jekyll-theme-midnight`, plugin `jekyll-feed`).
 2. **Pre-built app shipped as a static asset:**
    - `/lab/` — Rust + WGPU + WASM physics sandbox (~5.2 MB WASM).
    This is a **build artifact checked into the repo**. Do not try to rebuild it here — it has no source in this repo. To update it, regenerate from the upstream project and copy the dist output in.
-3. **`/fluxe/`** — a hand-coded static HTML/CSS mockup of a new design direction. Active redesign in progress. The plan for migrating the Jekyll content into this design lives at `/Users/fluxe/.claude/plans/i-have-included-a-abundant-sky.md` (clarifying questions still open as of the last conversation).
+
+(A `/fluxe/` folder of standalone HTML design mockups existed until August 2026; the design was migrated into the Jekyll site proper and the folder was deleted.)
 
 ## Commands
 

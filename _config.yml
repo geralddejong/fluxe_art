@@ -39,7 +39,6 @@ permalink: /works/:slug/
 
 # Folders Jekyll should not process or copy to _site
 exclude:
-  - fluxe/
   - Gemfile
   - Gemfile.lock
   - vendor/

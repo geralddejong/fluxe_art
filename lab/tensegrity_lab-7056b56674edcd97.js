@@ -286,12 +286,12 @@ if (!('encodeInto' in cachedTextEncoder)) {
 
 let WASM_VECTOR_LEN = 0;
 
-function wasm_bindgen__convert__closures_____invoke__h004c08333bdcfad0(arg0, arg1, arg2) {
-    wasm.wasm_bindgen__convert__closures_____invoke__h004c08333bdcfad0(arg0, arg1, arg2);
-}
-
 function wasm_bindgen__convert__closures_____invoke__h2541e219885bd8c6(arg0, arg1, arg2, arg3) {
     wasm.wasm_bindgen__convert__closures_____invoke__h2541e219885bd8c6(arg0, arg1, arg2, arg3);
+}
+
+function wasm_bindgen__convert__closures_____invoke__h004c08333bdcfad0(arg0, arg1, arg2) {
+    wasm.wasm_bindgen__convert__closures_____invoke__h004c08333bdcfad0(arg0, arg1, arg2);
 }
 
 function wasm_bindgen__convert__closures_____invoke__hdc7c6f540a2e01d0(arg0, arg1, arg2) {
@@ -2706,8 +2706,8 @@ function __wbg_get_imports() {
     imports.wbg.__wbg_writeTexture_0466bf7d7d35e04e = function() { return handleError(function (arg0, arg1, arg2, arg3, arg4) {
         arg0.writeTexture(arg1, arg2, arg3, arg4);
     }, arguments) };
-    imports.wbg.__wbindgen_cast_1b63dd8dce2bf3f6 = function(arg0, arg1) {
-        // Cast intrinsic for `Closure(Closure { dtor_idx: 3693, function: Function { arguments: [NamedExternref("Array<any>")], shim_idx: 3694, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
+    imports.wbg.__wbindgen_cast_0af7105d98008965 = function(arg0, arg1) {
+        // Cast intrinsic for `Closure(Closure { dtor_idx: 3687, function: Function { arguments: [NamedExternref("KeyboardEvent")], shim_idx: 3688, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
         const ret = makeMutClosure(arg0, arg1, wasm.wasm_bindgen__closure__destroy__h14969354b8e2e4a4, wasm_bindgen__convert__closures_____invoke__h004c08333bdcfad0);
         return ret;
     };
@@ -2716,24 +2716,29 @@ function __wbg_get_imports() {
         const ret = getStringFromWasm0(arg0, arg1);
         return ret;
     };
-    imports.wbg.__wbindgen_cast_2ea47bab75f7cf5e = function(arg0, arg1) {
-        // Cast intrinsic for `Closure(Closure { dtor_idx: 3693, function: Function { arguments: [NamedExternref("PointerEvent")], shim_idx: 3694, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
+    imports.wbg.__wbindgen_cast_5c72e312f0aac327 = function(arg0, arg1) {
+        // Cast intrinsic for `Closure(Closure { dtor_idx: 3687, function: Function { arguments: [NamedExternref("Event")], shim_idx: 3688, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
         const ret = makeMutClosure(arg0, arg1, wasm.wasm_bindgen__closure__destroy__h14969354b8e2e4a4, wasm_bindgen__convert__closures_____invoke__h004c08333bdcfad0);
         return ret;
     };
-    imports.wbg.__wbindgen_cast_34c3bcc3dcde746a = function(arg0, arg1) {
-        // Cast intrinsic for `Closure(Closure { dtor_idx: 3693, function: Function { arguments: [NamedExternref("PageTransitionEvent")], shim_idx: 3694, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
+    imports.wbg.__wbindgen_cast_63a0b7344a001a65 = function(arg0, arg1) {
+        // Cast intrinsic for `Closure(Closure { dtor_idx: 3687, function: Function { arguments: [NamedExternref("Array<any>"), NamedExternref("ResizeObserver")], shim_idx: 3692, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
+        const ret = makeMutClosure(arg0, arg1, wasm.wasm_bindgen__closure__destroy__h14969354b8e2e4a4, wasm_bindgen__convert__closures_____invoke__h2541e219885bd8c6);
+        return ret;
+    };
+    imports.wbg.__wbindgen_cast_6b46317ff13ac549 = function(arg0, arg1) {
+        // Cast intrinsic for `Closure(Closure { dtor_idx: 3687, function: Function { arguments: [NamedExternref("Array<any>")], shim_idx: 3688, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
         const ret = makeMutClosure(arg0, arg1, wasm.wasm_bindgen__closure__destroy__h14969354b8e2e4a4, wasm_bindgen__convert__closures_____invoke__h004c08333bdcfad0);
         return ret;
     };
-    imports.wbg.__wbindgen_cast_44c67e037a4e0d2a = function(arg0, arg1) {
-        // Cast intrinsic for `Closure(Closure { dtor_idx: 3693, function: Function { arguments: [], shim_idx: 3700, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
-        const ret = makeMutClosure(arg0, arg1, wasm.wasm_bindgen__closure__destroy__h14969354b8e2e4a4, wasm_bindgen__convert__closures_____invoke__h11f1dd1f1e34fd9a);
+    imports.wbg.__wbindgen_cast_708e84c1ca37097c = function(arg0, arg1) {
+        // Cast intrinsic for `Closure(Closure { dtor_idx: 3687, function: Function { arguments: [NamedExternref("WheelEvent")], shim_idx: 3688, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
+        const ret = makeMutClosure(arg0, arg1, wasm.wasm_bindgen__closure__destroy__h14969354b8e2e4a4, wasm_bindgen__convert__closures_____invoke__h004c08333bdcfad0);
         return ret;
     };
-    imports.wbg.__wbindgen_cast_73da0140c3810f4f = function(arg0, arg1) {
-        // Cast intrinsic for `Closure(Closure { dtor_idx: 3776, function: Function { arguments: [Externref], shim_idx: 3777, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
-        const ret = makeMutClosure(arg0, arg1, wasm.wasm_bindgen__closure__destroy__h44d78de5b4ae2b65, wasm_bindgen__convert__closures_____invoke__hdc7c6f540a2e01d0);
+    imports.wbg.__wbindgen_cast_7608fec3179fc479 = function(arg0, arg1) {
+        // Cast intrinsic for `Closure(Closure { dtor_idx: 3687, function: Function { arguments: [NamedExternref("FocusEvent")], shim_idx: 3688, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
+        const ret = makeMutClosure(arg0, arg1, wasm.wasm_bindgen__closure__destroy__h14969354b8e2e4a4, wasm_bindgen__convert__closures_____invoke__h004c08333bdcfad0);
         return ret;
     };
     imports.wbg.__wbindgen_cast_7c316abdc43840a3 = function(arg0, arg1) {
@@ -2746,29 +2751,24 @@ function __wbg_get_imports() {
         const ret = getArrayI32FromWasm0(arg0, arg1);
         return ret;
     };
-    imports.wbg.__wbindgen_cast_a2dc206936ee015c = function(arg0, arg1) {
-        // Cast intrinsic for `Closure(Closure { dtor_idx: 3693, function: Function { arguments: [NamedExternref("Event")], shim_idx: 3694, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
-        const ret = makeMutClosure(arg0, arg1, wasm.wasm_bindgen__closure__destroy__h14969354b8e2e4a4, wasm_bindgen__convert__closures_____invoke__h004c08333bdcfad0);
+    imports.wbg.__wbindgen_cast_986d55a802dfb14f = function(arg0, arg1) {
+        // Cast intrinsic for `Closure(Closure { dtor_idx: 3687, function: Function { arguments: [], shim_idx: 3694, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
+        const ret = makeMutClosure(arg0, arg1, wasm.wasm_bindgen__closure__destroy__h14969354b8e2e4a4, wasm_bindgen__convert__closures_____invoke__h11f1dd1f1e34fd9a);
         return ret;
     };
-    imports.wbg.__wbindgen_cast_a2f7f61fda0464d7 = function(arg0, arg1) {
-        // Cast intrinsic for `Closure(Closure { dtor_idx: 3693, function: Function { arguments: [NamedExternref("FocusEvent")], shim_idx: 3694, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
-        const ret = makeMutClosure(arg0, arg1, wasm.wasm_bindgen__closure__destroy__h14969354b8e2e4a4, wasm_bindgen__convert__closures_____invoke__h004c08333bdcfad0);
-        return ret;
-    };
-    imports.wbg.__wbindgen_cast_a582cfe8d2653316 = function(arg0, arg1) {
-        // Cast intrinsic for `Closure(Closure { dtor_idx: 3693, function: Function { arguments: [NamedExternref("Array<any>"), NamedExternref("ResizeObserver")], shim_idx: 3698, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
-        const ret = makeMutClosure(arg0, arg1, wasm.wasm_bindgen__closure__destroy__h14969354b8e2e4a4, wasm_bindgen__convert__closures_____invoke__h2541e219885bd8c6);
-        return ret;
-    };
-    imports.wbg.__wbindgen_cast_ab519c5742f98a15 = function(arg0, arg1) {
-        // Cast intrinsic for `Closure(Closure { dtor_idx: 3693, function: Function { arguments: [NamedExternref("WheelEvent")], shim_idx: 3694, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
-        const ret = makeMutClosure(arg0, arg1, wasm.wasm_bindgen__closure__destroy__h14969354b8e2e4a4, wasm_bindgen__convert__closures_____invoke__h004c08333bdcfad0);
+    imports.wbg.__wbindgen_cast_a06fe427887160bb = function(arg0, arg1) {
+        // Cast intrinsic for `Closure(Closure { dtor_idx: 3770, function: Function { arguments: [Externref], shim_idx: 3771, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
+        const ret = makeMutClosure(arg0, arg1, wasm.wasm_bindgen__closure__destroy__h44d78de5b4ae2b65, wasm_bindgen__convert__closures_____invoke__hdc7c6f540a2e01d0);
         return ret;
     };
     imports.wbg.__wbindgen_cast_bbb4883c6389f1de = function(arg0, arg1) {
         // Cast intrinsic for `Ref(Slice(U16)) -> NamedExternref("Uint16Array")`.
         const ret = getArrayU16FromWasm0(arg0, arg1);
+        return ret;
+    };
+    imports.wbg.__wbindgen_cast_c8fb83d6f35b53e2 = function(arg0, arg1) {
+        // Cast intrinsic for `Closure(Closure { dtor_idx: 3687, function: Function { arguments: [NamedExternref("PageTransitionEvent")], shim_idx: 3688, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
+        const ret = makeMutClosure(arg0, arg1, wasm.wasm_bindgen__closure__destroy__h14969354b8e2e4a4, wasm_bindgen__convert__closures_____invoke__h004c08333bdcfad0);
         return ret;
     };
     imports.wbg.__wbindgen_cast_cb9088102bce6b30 = function(arg0, arg1) {
@@ -2791,8 +2791,8 @@ function __wbg_get_imports() {
         const ret = getArrayI16FromWasm0(arg0, arg1);
         return ret;
     };
-    imports.wbg.__wbindgen_cast_f9b15052b1f32cf5 = function(arg0, arg1) {
-        // Cast intrinsic for `Closure(Closure { dtor_idx: 3693, function: Function { arguments: [NamedExternref("KeyboardEvent")], shim_idx: 3694, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
+    imports.wbg.__wbindgen_cast_f2102f758e9f5e38 = function(arg0, arg1) {
+        // Cast intrinsic for `Closure(Closure { dtor_idx: 3687, function: Function { arguments: [NamedExternref("PointerEvent")], shim_idx: 3688, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
         const ret = makeMutClosure(arg0, arg1, wasm.wasm_bindgen__closure__destroy__h14969354b8e2e4a4, wasm_bindgen__convert__closures_____invoke__h004c08333bdcfad0);
         return ret;
     };
